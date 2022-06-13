@@ -33,11 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
-
-- GitHub: [@dewslyse](https://github.com/dewslyse)
-
-👤 **Author2**
+👤 **Author**
 
 - GitHub: [@raoakif](https://github.com/raoakif)
 - Twitter: [@raoakif](https://twitter.com/raoakif)
