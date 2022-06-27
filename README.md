@@ -2,42 +2,38 @@
 
 > Description the project.
 
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To create a local copy of the project, follow these steps: 
+1. Naviagte to the desired folder. Open the terminal there and run the following command:
+ ```
+ git clone https://github.com/RaoAkif/Project_Name
+ ```
+ Enter the folder with:
+ ```
+ cd Project-name
+ ```
+## Run the Project
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+Type in the command line:
+ ```
+ ./main.rb
+ ```
+ 
 
 ## Authors
 
-👤 **Author**
+👤 **RaoAkif**
 
 - GitHub: [@raoakif](https://github.com/raoakif)
 - Twitter: [@raoakif](https://twitter.com/raoakif)
 - LinkedIn: [RaoAkif](https://linkedin.com/in/raoakif)
+
+👤 **Author2**
+
+- GitHub: [@AUTHOR2](https://github.com/AUTHOR2)
+- Twitter: [@AUTHOR2](https://twitter.com/AUTHOR2)
+- LinkedIn: [AUTHOR2](https://linkedin.com/in/AUTHOR2)
 
 ## 🤝 Contributing
 
