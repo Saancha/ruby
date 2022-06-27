@@ -5,17 +5,17 @@
 ## Getting Started
 
 To create a local copy of the project, follow these steps: 
-1. Naviagte to the desired folder. Open the terminal there and run the following command:
+##### Open terminal and navigate to the project folder. Then run the following command:
  ```
  git clone https://github.com/RaoAkif/Project_Name
  ```
- Enter the folder with:
+##### Enter the folder with:
  ```
- cd Project-name
+ cd Project_Name
  ```
 ## Run the Project
 
-Type in the command line:
+##### Type in the command line:
  ```
  ./main.rb
  ```
