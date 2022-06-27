@@ -19,7 +19,13 @@ To create a local copy of the project, follow these steps:
  ```
  ./main.rb
  ```
+## Testing
+##### To run the tests just type the following in your termial:
  
+```
+rspec
+```
+
 
 ## Authors
 
